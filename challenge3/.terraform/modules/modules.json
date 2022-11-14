@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"ec2webmodule.eip_module","Source":"../eip","Dir":"eip"},{"Key":"ec2webmodule.securitygroup","Source":"../sg","Dir":"sg"},{"Key":"","Source":"","Dir":"."},{"Key":"ec2dbmodule","Source":"./db","Dir":"db"},{"Key":"ec2webmodule","Source":"./web","Dir":"web"}]}
